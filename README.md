@@ -97,17 +97,39 @@ node test-signup.js       # Test signup functionality
 ---
 ## screenshots
 
+<p align="center">
+  <b>HOME PAGE</b><br>
+  <img src="https://github.com/user-attachments/assets/0b143490-8529-4f45-8b54-6579c270105d" width="700">
+</p>
 
-![WhatsApp Image 2025-09-02 at 13 29 13_bd7362bb](https://github.com/user-attachments/assets/0b143490-8529-4f45-8b54-6579c270105d)
+<p align="center">
+  <b>SIGN UP</b><br>
+  <img src="https://github.com/user-attachments/assets/a2edb8c4-1ebc-47af-8b05-64e9e6f22945" width="700">
+</p>
 
-![WhatsApp Image 2025-09-02 at 13 29 13_700408d9](https://github.com/user-attachments/assets/a2edb8c4-1ebc-47af-8b05-64e9e6f22945)
+<p align="center">
+  <b>VERIFICATION</b><br>
+  <img src="https://github.com/user-attachments/assets/f1897649-0ff5-43da-824a-87597cba734c" width="700">
+</p>
 
-![WhatsApp Image 2025-09-02 at 13 29 13_d1aa36b2](https://github.com/user-attachments/assets/f1897649-0ff5-43da-824a-87597cba734c)
+<p align="center">
+  <b>LOGIN</b><br>
+  <img src="https://github.com/user-attachments/assets/d2d60e47-36a4-4e4b-8868-01d7cc2e5fda" width="700">
+</p>
 
-![WhatsApp Image 2025-09-02 at 13 29 12_5ee1647c](https://github.com/user-attachments/assets/d2d60e47-36a4-4e4b-8868-01d7cc2e5fda)
+<p align="center">
+  <b>DASHBOARD</b><br>
+  <img src="https://github.com/user-attachments/assets/936582e1-8a9e-4a8c-b218-5214ce580e5b" width="700">
+</p>
 
-![WhatsApp Image 2025-09-02 at 13 29 11_f7145e03](https://github.com/user-attachments/assets/936582e1-8a9e-4a8c-b218-5214ce580e5b)
+<p align="center">
+  <b>ADD SCHOOL</b><br>
+  <img src="https://github.com/user-attachments/assets/4b70b09e-488a-4878-8ecb-e427a2e64aab" width="700">
+</p>
 
-![WhatsApp Image 2025-09-02 at 13 29 11_571775be](https://github.com/user-attachments/assets/4b70b09e-488a-4878-8ecb-e427a2e64aab)
+<p align="center">
+  <b>VIEW SCHOOL</b><br>
+  <img src="https://github.com/user-attachments/assets/faf61b78-eb50-433b-97d5-6f96a45164af" width="700">
+</p>
 
-![WhatsApp Image 2025-09-02 at 13 29 12_fb5470f3](https://github.com/user-attachments/assets/faf61b78-eb50-433b-97d5-6f96a45164af)
+
